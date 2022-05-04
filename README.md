@@ -1,2 +1,6 @@
 ## Pikachu PowerShell
 ___
+
+```
+$PSVersionTable
+```
